@@ -18,7 +18,7 @@ printf "\e[1;93m    :     := -}\e[0m\e[1;77m | |_) | |_| |  _ <  / ___ \| |  \e[
 printf "\e[1;93m    '.   .'    \e[0m\e[1;77m | .__/ \__, |_| \_\/_/   \_\_|  \e[0m\e[1;93m    '.   .'   \e[0m\n"
 printf "\e[1;93m ~-=~~-=~~-=~~ \e[0m\e[1;77m |_|    |___/v1.0                \e[0m\e[1;93m~-=~~-=~~-=~~ \e[0m\n"
 printf "\n"
-printf "\e[1;77m      Coded by: https://github.com/thelinuxchoice/pyRAT\e[0m\n"
+printf "\e[1;77m      Recode by: https://github.com/mkdirlove/PYTHON-RAT\e[0m\n"
 printf "\n"
 printf " \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not ::\e[0m\n"
 printf " \e[101m\e[1;77m:: responsible for any misuse or damage caused by pyRAT   ::\e[0m\n"
