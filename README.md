@@ -1,6 +1,8 @@
 # pyRAT v1.0
-## Author: github.com/thelinuxchoice
-## IG: instagram.com/linux_choice
+## Credits to : github.com/thelinuxchoice
+## Author     : github.com/thelinuxchoice
+## Recode     : github.com/mkdirlove
+## IG         : instagram.com/linux_choice
 ### Don't copy this code without giving me the credits, nerd! Read the Lincense.
 
 Windows Remote Administration Tool (RAT)
@@ -40,14 +42,7 @@ sed -i -e 's+upload_max_filesize = 2M+upload_max_filesize = 100M+g' $(php -i | g
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/pyRAT
+git clone https://github.com/mkdirlove/PYTHON-RAT
 cd pyRAT
 bash pyrat.sh
 ```
-
-### Donate!
-Support the authors:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
-### LiberaPay:
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
